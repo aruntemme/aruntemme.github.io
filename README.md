@@ -1,6 +1,6 @@
 # My Portfolio      
 
-## <a href="https://compassionate-leakey-e9b16b.netlify.app/">LIVE DEMO</a>
+## <a href="https://aruntemme.netlify.com/">LIVE DEMO</a>
 
 ## Description
 This is a ReactJS based personal resume website
