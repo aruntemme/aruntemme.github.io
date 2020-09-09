@@ -95,6 +95,7 @@ header .social {
 }
 header .social li {
   display: inline-block;
+  color: white;
   margin: 0 15px;
   padding: 0;
 }
