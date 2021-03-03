@@ -1,5 +1,5 @@
-This site under development 
-soon you will get notified
-thank you
+This site under development<br>
+soon you will get notified<br>
+thank you<br>
 
 <h2>-Arun</h2>
